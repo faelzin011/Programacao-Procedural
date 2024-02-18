@@ -7,8 +7,8 @@ Neste módulo iremos estudar os fundamentos da programação de computadores. No
 3. Operadores aritméticos e relacionais
 4. Operadores lógicos e tabela verdade
 5. Estruturas de decisão
-6. Laços de repetição I
-7. Laços de repetição II
+6. Laços de repetição 1
+7. Laços de repetição 2
 8. Laços de repetição aninhados
 9. Prova - Programação procedural
 10. Vetores
