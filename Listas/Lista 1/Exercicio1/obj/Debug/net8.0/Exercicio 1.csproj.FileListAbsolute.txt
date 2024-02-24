@@ -1,0 +1,30 @@
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.exe
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.deps.json
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.pdb
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.sourcelink.json
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\refint\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.pdb
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio 1\obj\Debug\net8.0\ref\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\bin\Debug\net8.0\Exercicio 1.exe
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\bin\Debug\net8.0\Exercicio 1.deps.json
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\bin\Debug\net8.0\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\bin\Debug\net8.0\Exercicio 1.pdb
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.sourcelink.json
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\refint\Exercicio 1.dll
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.pdb
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\Rafinha\OneDrive\Área de Trabalho\Programacao-Procedural\Lista 1\Exercicio1\obj\Debug\net8.0\ref\Exercicio 1.dll
